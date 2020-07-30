@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Informatica.Negocio", "Informatica.Negocio\Informatica.Negocio.csproj", "{2074E01B-AD43-45F1-85BC-FDF079A74401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Informatica.Negocio.Tests", "Informatica.Negocio.Tests\Informatica.Negocio.Tests.csproj", "{C293EE2B-5846-4C7C-A966-77A148B4B94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2074E01B-AD43-45F1-85BC-FDF079A74401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2074E01B-AD43-45F1-85BC-FDF079A74401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2074E01B-AD43-45F1-85BC-FDF079A74401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2074E01B-AD43-45F1-85BC-FDF079A74401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C293EE2B-5846-4C7C-A966-77A148B4B94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C293EE2B-5846-4C7C-A966-77A148B4B94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C293EE2B-5846-4C7C-A966-77A148B4B94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C293EE2B-5846-4C7C-A966-77A148B4B94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C1694D-46E9-4C4C-A07C-615F3175643F}
+	EndGlobalSection
+EndGlobal
